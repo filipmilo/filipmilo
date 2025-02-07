@@ -38,7 +38,7 @@ background_color = "green"
 
 menu_items = [
     {name = "/about me", url = "$BASE_URL/about"},
-    {name = "/projects", url = "$BASE_URL/projects"},
-    {name = "/blog", url = "$BASE_URL/blog"},
+  #{name = "/projects", url = "$BASE_URL/projects"},
+  #{name = "/blog", url = "$BASE_URL/blog"},
     {name = "/cv", url = "$BASE_URL/cv.pdf"},
 ]
