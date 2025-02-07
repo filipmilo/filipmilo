@@ -3,6 +3,8 @@ base_url = "https://filipmilo.dev"
 
 theme = "terminimal"
 
+title = "Filip Milosevic"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -21,11 +23,14 @@ feed_filenames = ["rss.xml", "atom.xml"]
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+
+author = "Filip Milosevic"
 
 logo_text = "filipmilo"
 
-copyright_html = "© 2024 by Filip Milosevic"
+favicon = "favicon.ico"
+
+favicon_mimetype = "image/x-icon"
 
 accent_color = "green"
 

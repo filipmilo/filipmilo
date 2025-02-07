@@ -16,6 +16,6 @@ Email me:
 
 Alternatively, find me on:
 
-- [Github](https://github.com/filipmilo)
+- [GitHub](https://github.com/filipmilo)
 - [LinkedIn](https://www.linkedin.com/in/filip-milosevic-740a01207/)
 - [Instagram](https://www.instagram.com/milosevicf/)
