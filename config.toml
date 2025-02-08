@@ -17,6 +17,10 @@ generate_feeds = true
 # Use `rss.xml` for RSS feeds and `atom.xml` for ATOM.
 feed_filenames = ["rss.xml", "atom.xml"]
 
+taxonomies = [
+    {name = "tags"}
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -38,7 +42,6 @@ background_color = "green"
 
 menu_items = [
     {name = "/about me", url = "$BASE_URL/about"},
-  #{name = "/projects", url = "$BASE_URL/projects"},
-  #{name = "/blog", url = "$BASE_URL/blog"},
+    {name = "/blog", url = "$BASE_URL"},
     {name = "/cv", url = "$BASE_URL/cv.pdf"},
 ]
