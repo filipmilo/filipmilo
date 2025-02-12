@@ -8,10 +8,9 @@ Hello! My name is **Filip Milosevic**.
 I'm a professional **backend engineer**, primarily interested in **distributed systems** and **software architecture**. 
 Currently, I work full-time at [LambdaWorks](https://www.lambdaworks.io/) in Novi Sad, Serbia and pursuing a masters degree in High Performance Computing.
 
-<img src="/profile.png" alt="Profile image" style="float: right; margin-right: 100px; width: 250px;">
+{{ imagefloat(src="/profile_border.png", alt="A beautiful image", position="float-right", style="max-width: 35%;") }}
 
-Feel free to reach out. I'm always open to discussions about software and programming challenges!
-
+Feel free to reach out. I'm always open to discussions about software and programming challenges! 
 
 Email me:
 - [fmilosevic29@gmail.com](mailto:fmilosevic29@gmail.com)
