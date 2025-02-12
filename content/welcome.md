@@ -18,7 +18,7 @@ This site was built purely using **Zola**, a **S**tatic **S**ite **G**enerator (
 
 ## What to expect
 
-I can't promise how frequently I will post. That will be up to my dedication, but I will post any time I finish an interesting project, find a solution to some problem that required a lot of research.
+I can't promise how frequently I will post. That will be up to my dedication, but I will post any time I finish an interesting project or find a solution to some problem that required a lot of research.
 
 Here’s what you can look forward to:
 
