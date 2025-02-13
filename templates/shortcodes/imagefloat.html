@@ -4,7 +4,8 @@
     {# ... then prepend the site's base URL to the image's URL. #}
     {% set src = config.base_url ~ src %}
   {% endif %}
+
 <img src="{{ src | safe }}" {% if alt %} alt="{{ alt }}"{% endif %} 
-  style="float: right; margin-right: 90px; margin-top: 30px; height: auto; display: block; {{ style | safe }}" 
+  class="responsive_img"
      decoding="async" loading="lazy"/>
 {% endif %}

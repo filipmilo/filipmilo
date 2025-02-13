@@ -1,0 +1,19 @@
+.responsive_img {
+    float: right; 
+    margin-right: 90px; 
+    margin-top: 30px; 
+    max-width: 35%;
+    height: auto; 
+    display: block;
+}
+
+@media (max-width: 683px) {
+  .responsive_img {
+    float: none;
+    margin-right: 90px;
+    margin-top: 30px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+}
