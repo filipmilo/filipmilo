@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Filip Milosevic</title>
+    <link rel="self" type="application/atom+xml" href="https://filipmilo.dev/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://filipmilo.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-02-08T00:00:00+00:00</updated>
+    <id>https://filipmilo.dev/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Welcome to my website! 👋</title>
+        <published>2025-02-08T00:00:00+00:00</published>
+        <updated>2025-02-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://filipmilo.dev/welcome/"/>
+        <id>https://filipmilo.dev/welcome/</id>
+        
+        <summary type="html">&lt;p&gt;Hello and welcome! 🎉 I&#x27;m thrilled to have you here. This website is serving as a knowledge base where I’ll be sharing my projects, thoughts and other topics that interest me along my learning journey.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
