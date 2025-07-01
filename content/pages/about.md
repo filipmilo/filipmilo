@@ -3,17 +3,18 @@ title = "About Me"
 path = "about"
 +++
 
-Hello! My name is **Filip Milosevic**. 
+Hello! My name is **Filip Milosevic**.
 
-I'm a professional **backend engineer**, primarily interested in **distributed systems** and **software architecture**. 
+I'm a professional **backend engineer**, primarily interested in **distributed systems** and **software architecture**.
 Currently, I work full-time at [LambdaWorks](https://www.lambdaworks.io/) in Novi Sad, Serbia and pursuing a masters degree in High Performance Computing.
 
 {{ imagefloat(src="/profile_border.png", alt="Trejdmarkovano od strane Lenka.") }}
 
-Feel free to reach out. I'm always open to discussions about software and programming challenges! 
+Feel free to reach out. I'm always open to discussions about software and programming challenges!
 
 Email me:
-- [fmilosevic29@gmail.com](mailto:fmilosevic29@gmail.com)
+
+- **fmilosevic** at **proton** dot **me**
 
 Alternatively, find me on:
 
