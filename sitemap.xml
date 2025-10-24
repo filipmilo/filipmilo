@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://filipmilo.dev/</loc>
+    </url>
+    <url>
+        <loc>https://filipmilo.dev/about/</loc>
+    </url>
+    <url>
+        <loc>https://filipmilo.dev/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://filipmilo.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://filipmilo.dev/tags/misc/</loc>
+    </url>
+    <url>
+        <loc>https://filipmilo.dev/welcome/</loc>
+        <lastmod>2025-02-08</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Filip Milosevic</title>
+      <link>https://filipmilo.dev</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://filipmilo.dev/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Welcome to my website! 👋</title>
+          <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://filipmilo.dev/welcome/</link>
+          <guid>https://filipmilo.dev/welcome/</guid>
+          <description xml:base="https://filipmilo.dev/welcome/">&lt;p&gt;Hello and welcome! 🎉 I&#x27;m thrilled to have you here. This website is serving as a knowledge base where I’ll be sharing my projects, thoughts and other topics that interest me along my learning journey.&lt;&#x2F;p&gt;</description>
+      </item>
+    </channel>
+</rss>
