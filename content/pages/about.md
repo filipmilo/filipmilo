@@ -6,7 +6,7 @@ path = "about"
 Hello! My name is **Filip Milosevic**.
 
 I'm a professional **backend engineer**, primarily interested in **distributed systems** and **software architecture**.
-Currently, I work full-time at [LambdaWorks](https://www.lambdaworks.io/) in Novi Sad, Serbia and pursuing a masters degree in High Performance Computing.
+Currently, I work full-time at [AMD](https://www.amd.com) based in Belgrade, Serbia and pursuing a masters degree in High Performance Computing.
 
 {{ imagefloat(src="/profile_border.png", alt="Trejdmarkovano od strane Lenka.") }}
 
